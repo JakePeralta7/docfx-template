@@ -5,3 +5,5 @@ items:
   href: getting-started.md
 - name: Embed Video
   href: embed-video.md
+- name: Mermaid Diagrams
+  href: mermaid-diagrams.md
