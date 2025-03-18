@@ -37,8 +37,8 @@
       "modern"
     ],
     "globalMetadata": {
-      "_appName": "dofcx-template",
-      "_appTitle": "dofcx-template",
+      "_appName": "docfx-template",
+      "_appTitle": "docfx-template",
       "_enableSearch": true,
       "pdf": true
     }
